@@ -1761,6 +1761,11 @@ article:last-child {
   width: auto;
 }
 
+.image.small {
+  display: block;
+  width: 10%;
+}
+
 /* Button */
 
 input[type="button"],
