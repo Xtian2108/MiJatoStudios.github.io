@@ -1847,7 +1847,7 @@ input[type="submit"].alt:hover,
 input[type="reset"].alt:hover,
 button.alt:hover,
 .button.alt:hover {
-  background-color: #4f4f4f;
+  background-color: #3fa9d4;
   color: #fff !important;
 }
 
@@ -2101,6 +2101,10 @@ ul.actions li:first-child {
 
 .icon.featured:before {
   font-size: 6em;
+}
+
+.icon.brands:hover {
+  background: #454545;
 }
 
 /* Wrappers */
